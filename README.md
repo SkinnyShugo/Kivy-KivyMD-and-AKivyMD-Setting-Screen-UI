@@ -12,7 +12,7 @@ A clear and a simple setting screen UI with colorful custom icons and Organized 
 ## Video
 [watch on YouTube ](https://youtu.be/eckMJYvhvpE)
 
-## Show Case
+## Previews 
 
 ![Screenshot](AppScreenshot.jpg)
 
