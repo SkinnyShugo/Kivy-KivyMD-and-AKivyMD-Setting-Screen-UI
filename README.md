@@ -8,9 +8,9 @@ A clear and a simple setting screen UI with colorful custom icons and Organized 
 `pip install -r requirements.txt`  
 
 ## Icons
-[flat icon website](https://www.flaticon.com/)
+[Flat Icon Website](https://www.flaticon.com/)
 ## Video
-[watch on YouTube ](https://youtu.be/PHoLyrxL_bU)
+[watch on YouTube ](https://youtu.be/eckMJYvhvpE)
 
 
 ![Screenshot](AppScreenshot.jpg)
